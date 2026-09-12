@@ -1,4 +1,4 @@
-mcmc-modelo-arima
+# ARIMA usando MCMC
 Ajuste bayesiano de um modelo AR(1) a uma série temporal diária, com estimação via MCMC (Gibbs/JAGS). Trabalho da disciplina de Inferência Bayesiana, feito em dupla com João Vitor Prisco.
 Dados
 `perfect night_ d1 _d184.txt` contém 184 observações diárias de streams da música Perfect Night, de 26/10/2023 a 27/04/2024. No script a série é dividida por 1000, então tudo (estimativas, previsões) está em milhares de streams.
